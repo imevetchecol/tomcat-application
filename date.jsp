@@ -9,5 +9,6 @@
 </head>
 <body>
 Today's date: <%= (new java.util.Date()).toLocaleString()%>
+<!-- Write your comments here -->
 </body>
 </html>
